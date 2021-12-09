@@ -72,7 +72,7 @@ int playLocalMultiplayer()
 }
 int main()
 {
-	cout << "Welcome to TicTacToe!\n";
+	cout << "Welcome to TicTacToe by Alexander Joham!\n";
 	playLocalMultiplayer();
 	return 0;
 }
