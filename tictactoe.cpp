@@ -113,7 +113,7 @@ int playLocalMultiplayer()
 				winner = 1;
 			else
 				winner = 2;
-			cout << "Player" << winner << " is the winner";
+			cout << "Player" << winner << " is the winner\n";
 			drawField();
 			return 0;
 		}
